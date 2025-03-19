@@ -82,7 +82,7 @@
 
 ---
 
-### 🎮 Fun Fact
+### 🎮 Fun Game
 
 <p align="center">
   <picture>
