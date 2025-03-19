@@ -1,7 +1,14 @@
 <h2 align="left">Hi there! 👋 I'm Minh Khang Nguyen, a Software Engineer from Arizona, USA</h2>
 
----
+  <a href="https://minhnguyencs.github.io/portfolio/">
+    <img
+      alt="Minh Khang Nguyen"
+      src="img/banner.png"
+      width="100%"
+    />
+  </a>
 
+  
 ### 🚀 About Me
 
 - 🎓 Pursued a **B.S in Software Engineering** at **Arizona State University** 
