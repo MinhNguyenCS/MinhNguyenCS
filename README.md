@@ -17,7 +17,7 @@
 - 🌱 Learning **Kubernetes, ELK Stack, and advanced AWS services**
 - 🏆 **GPA: 3.9** |
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExano1azJ0cXV3cjVxeXI2N2FiMHVodnRmdjBjM2FlcDJuMWJxczRsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif"  />
 
 
 ---
